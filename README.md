@@ -1,1 +1,1 @@
-Power BI Dashboard Project
+Power BI Sales Dashboard Project
